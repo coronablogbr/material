@@ -1,0 +1,11 @@
+version: '3'
+services:
+  mkdocs:
+    image: coronablogbr/devenv-material
+    build: .
+    ports:
+      - "8000:8000"   # website
+    #  - "35729:35729" # livereload
+    volumes:
+      - ./:/usr/src/app
+    tty: true
