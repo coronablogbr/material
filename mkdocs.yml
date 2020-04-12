@@ -1,0 +1,16 @@
+site_name: Coronavírus Brasil - Material
+theme:
+  name: material
+markdown_extensions:
+  - footnotes
+repo_url: https://github.com/coronablogbr/material
+repo_name: coronablogbr/material
+nav:
+  - "Sobre": index.md
+  - fontes-de-dados.md
+  - Medicamentos:
+    - Cloroquina: cloroquina.md
+  - podcasts.md
+  - prevencao.md
+  - terminologia.md
+  - youtube.md
