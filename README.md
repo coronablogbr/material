@@ -6,7 +6,7 @@ Acesse os materiais em https://coronablogbr.org/material.
 
 ## Contribua
 
-Esse é um projeto de código fonte aberto, contribua com issues e pull requests.
+Veja como contribuir com esse projeto em [docs/colabore.md](docs/colabore.md).
 
 ## Créditos
 
