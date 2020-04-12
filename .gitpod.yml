@@ -1,0 +1,9 @@
+tasks:
+  - init: pip install -r requirements.txt
+    command: mkdocs serve
+ports:
+  - port: 8000
+    onOpen: open-preview
+vscode:
+  extensions:
+    - mdickin.markdown-shortcuts@0.12.0:h8L11R6NpkgnCtbr8QLlUw==
