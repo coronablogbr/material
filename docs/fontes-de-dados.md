@@ -20,6 +20,8 @@
         - [Global Map](https://coronavirus.jhu.edu/map.html)
     - [Our World in Data](https://ourworldindata.org/coronavirus)
     - [Worldometer](https://www.worldometers.info/coronavirus/)
+    - <https://www.lagomdata.com.br/coronavirus>
+    - <https://covid19br.wcota.me/>
 - [Índice de Transparência da Covid-19](https://transparenciacovid19.ok.org.br/) - Open Knowledge Brasil
     - Índice criado a partir da disponibilidade de dados por estado, veja a nota metodológica (link not site).
 - Mobilidade Urbana
@@ -45,7 +47,6 @@
     - Dados usados no Dashboard da JHU
     - Séries temporais globais e para EUA por país/região (e província/estado em alguns países)
     - Em formato **CSV**
-
 
 ## Dados não informados
 

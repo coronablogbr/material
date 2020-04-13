@@ -13,6 +13,7 @@
 ## Imprensa
 - [Folha de São Paulo](https://www1.folha.uol.com.br/cotidiano/coronavirus/)
 - [O Globo](https://oglobo.globo.com/sociedade/coronavirus/)
+- <https://www.nytimes.com/news-event/coronavirus>
 
 ## Outros
 
