@@ -6,3 +6,4 @@
 - [Coronavirus: Out of Many, One](https://medium.com/@tomaspueyo/coronavirus-out-of-many-one-36b886af37e9)
 - [Epidemic Modeling 101: Or why your CoVID-19 exponential fits are wrong](https://medium.com/data-for-science/epidemic-modeling-101-or-why-your-covid19-exponential-fits-are-wrong-97aa50c55f8)
 - [Epidemic Modeling 102: All CoVID-19 models are wrong, but some are useful](https://medium.com/data-for-science/epidemic-modeling-102-all-covid-19-models-are-wrong-but-some-are-useful-c81202cc6ee9)
+- [10/04/2020 - What is Herd Immunity and How Can We Achieve It With COVID-19?](www.jhsph.edu/covid-19/articles/achieving-herd-immunity-with-covid19.html) - Johns Hopkins School of Public Health

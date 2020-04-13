@@ -10,10 +10,15 @@
 - [Grupo de Métodos Analíticos em Vigilância Epidemiológica (MAVE) - PROCC - Fiocruz](https://covid-19.procc.fiocruz.br/)
     - [Repositório contendo relatórios técnicos sobre COVID-19](https://gitlab.procc.fiocruz.br/mave/repo)
 
-## Imprensa
+## Imprensa e Notícias
+
 - [Folha de São Paulo](https://www1.folha.uol.com.br/cotidiano/coronavirus/)
 - [O Globo](https://oglobo.globo.com/sociedade/coronavirus/)
 - <https://www.nytimes.com/news-event/coronavirus>
+- [Johns Hopkins University - Coronavirus Resource Center - News and Information](https://coronavirus.jhu.edu/news)
+- [Johns Hopkins School of Public Health Expert Insights - Articles](https://www.jhsph.edu/covid-19/articles/)
+- <https://www.globalhealthnow.org/topics/coronaviruses>
+    - [COVID-19 Expert Reality Check](https://www.globalhealthnow.org/2020-02/coronavirus-expert-reality-check)
 
 ## Outros
 
