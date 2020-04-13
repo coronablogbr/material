@@ -9,9 +9,12 @@ nav:
   - "Sobre": index.md
   - aplicativos.md
   - fontes-de-dados.md
+  - Fontes de Informações:
+    - sites.md
+    - podcasts.md
+    - youtube.md
   - Medicamentos:
     - Cloroquina: cloroquina.md
-  - podcasts.md
   - prevencao.md
   - terminologia.md
-  - youtube.md
+  
