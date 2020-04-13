@@ -21,3 +21,7 @@ Baixe:
 - [App Store](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382) - iOS, iPhone
 
   [^auxílio-emergencial]: [Solicitar Auxílio Emergencial de R$ 600 - Coronavírus - Covid-19](https://www.gov.br/pt-br/servicos/solicitar-auxilio-emergencial-de-r-600-covid-19) - gov.br
+
+## Links adicionais
+
+- [Galeria de aplicativos do governo federal](https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos)
