@@ -12,6 +12,7 @@
     - [Grupo de Métodos Analíticos em Vigilância Epidemiológica (MAVE) - PROCC - Fiocruz](https://covid-19.procc.fiocruz.br/)
         - [Repositório contendo relatórios técnicos sobre COVID-19](https://gitlab.procc.fiocruz.br/mave/repo)
 - [Portal da Transparência - Registro Civil](https://transparencia.registrocivil.org.br/especial-covid)
+- [World Health Organization - COVID-19 - Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 
 ### Não oficiais
 
