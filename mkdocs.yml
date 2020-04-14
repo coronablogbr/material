@@ -9,6 +9,7 @@ nav:
   - "Sobre": index.md
   - colabore.md
   - aplicativos.md
+  - ferramentas.md
   - fontes-de-dados.md
   - Fontes de Informações:
     - sites.md
@@ -17,6 +18,7 @@ nav:
   - leituras.md
   - Medicamentos:
     - Cloroquina: cloroquina.md
+  - perguntas-e-respostas.md
   - prevencao.md
   - terminologia.md
   - Vacinas:
