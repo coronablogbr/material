@@ -22,6 +22,8 @@
 
 ## Outros
 
+- [Núcleo de Operações e Inteligência em Saúde - NOIS](https://sites.google.com/view/nois-pucrio/home)
+    - [Publicações (Notas Técnicas)](https://sites.google.com/view/nois-pucrio/publica%C3%A7%C3%B5es)
 - [Tracking the Global Response to COVID-19](https://privacyinternational.org/examples/tracking-global-response-covid-19) - https://privacyinternational.org/
 - [Monitor da COVID-19 no Brasil](https://fgrehm.github.io/monitor-covid19-br/)
     - Projeto de monitoramento de tweets e notícias
