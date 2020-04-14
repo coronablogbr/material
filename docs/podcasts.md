@@ -11,6 +11,7 @@
 
 - Episódios
     - [Nerdcast 718 - Anatomia de um vírus](https://jovemnerd.com.br/nerdcast/anatomia-de-um-virus) com participação do Átila Iamarino
+    - [NerdCast 719 - Saúde mental na quarentena](https://jovemnerd.com.br/nerdcast/saude-mental-na-quarentena/)
 
 ## Em Inglês
 
