@@ -8,6 +8,7 @@
 - Taxa de Contágio
 - Subnotificação
 - Equipamento de Proteção Individual (EPI)
+- Uso compassivo
 
 ## Região de Saúde
 
