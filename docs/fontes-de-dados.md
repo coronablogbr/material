@@ -23,8 +23,10 @@
     - [Worldometer](https://www.worldometers.info/coronavirus/)
     - <https://www.lagomdata.com.br/coronavirus>
     - <https://covid19br.wcota.me/>
+    - [Observatório COVID-19 BR](https://covid19br.github.io/)
 - [Índice de Transparência da Covid-19](https://transparenciacovid19.ok.org.br/) - Open Knowledge Brasil
     - Índice criado a partir da disponibilidade de dados por estado, veja a nota metodológica (link not site).
+- [Observatório COVID-19 BR](https://covid19br.github.io/)
 - Mobilidade Urbana
     - [Relatórios do Google](https://www.google.com/covid19/mobility/) - Disponibilizados por país em PDF, com seções por estado dentro do documento
     - [In Loco](https://www.inloco.com.br/pt/) - Índice de isolamento social - a partir de coleta de dados de celulares por parceria com aplicativos

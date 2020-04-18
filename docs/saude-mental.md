@@ -14,8 +14,9 @@
 
 ### Podcasts
 
-- [NerdCast 719 - Saúde mental na quarentena](https://jovemnerd.com.br/nerdcast/saude-mental-na-quarentena/)
-- [Dragões de Garagem - Pílulas da Garagem - Consumo de Álcool na Quarentena](https://dragoesdegaragem.com/podcast/consumo-de-alcool-na-quarentena-pilulas-da-garagem/)
+- [29/03/2020 - Quarentena – Dia 14](http://www.labi.ufscar.br/2020/03/29/quarentena-dia-14/) - Tema principal é Saúde Mental
+- [03/03/2020 - NerdCast 719 - Saúde mental na quarentena](https://jovemnerd.com.br/nerdcast/saude-mental-na-quarentena/)
+- [17/04/2020 - Dragões de Garagem - Pílulas da Garagem - Consumo de Álcool na Quarentena](https://dragoesdegaragem.com/podcast/consumo-de-alcool-na-quarentena-pilulas-da-garagem/)
 
 ## Em Inglês
 
